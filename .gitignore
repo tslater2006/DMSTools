@@ -1,4 +1,6 @@
-# Compiled Object files
+.dub
+docs.json
+__dummy.html
 *.o
 *.obj
 
@@ -15,9 +17,6 @@
 *.exe
 
 # DUB
-.dub
-docs.json
-__dummy.html
 docs/
 
 # Code coverage
